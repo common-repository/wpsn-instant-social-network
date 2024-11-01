@@ -1,0 +1,283 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2024-06-20 07:05+0100\n"
+"PO-Revision-Date: 2024-06-20 07:06+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ajax/wpsn_alerts_ajax.php:178 ajax/wpsn_friends_ajax.php:592
+#: ajax/wpsn_friends_ajax.php:628 ajax/wpsn_friends_ajax.php:738
+#: ajax/wpsn_search_ajax.php:39 ajax/wpsn_story_ajax.php:1131
+#, php-format
+msgid "%s ago"
+msgstr "%s घंटा पहले"
+
+#: ajax/wpsn_friends_ajax.php:262
+#, php-format
+msgid "%s has accepted your friend request!"
+msgstr "%s ने आपका मित्र अनुरोध स्वीकार कर लिया है!"
+
+#: ajax/wpsn_friends_ajax.php:542
+#, php-format
+msgid "You have a friend request from %s!"
+msgstr "आपके पास %s से मित्र अनुरोध है!"
+
+#: ajax/wpsn_friends_ajax.php:593 ajax/wpsn_friends_ajax.php:629
+msgid "Requested"
+msgstr "अनुरोधित"
+
+#: ajax/wpsn_friends_ajax.php:664
+#, php-format
+msgid "Friends for %s"
+msgstr "%s के लिए दोस्त"
+
+#: ajax/wpsn_search_ajax.php:41
+msgid "Never"
+msgstr "कभी नहीं"
+
+#: ajax/wpsn_story_ajax.php:1150 functions.php:213
+msgid "Reply"
+msgstr "उत्तर"
+
+#: ajax/wpsn_story_ajax.php:1156 functions.php:214
+msgid "Edit"
+msgstr "संपादन करना"
+
+#: ajax/wpsn_story_ajax.php:1157 functions.php:215
+msgid "Delete"
+msgstr "मिटाना"
+
+#: edit_profile.php:20 login.php:62
+msgid "First name"
+msgstr "प्रथम नाम"
+
+#: edit_profile.php:29 login.php:67
+msgid "Last name"
+msgstr "कुलनाम"
+
+#: edit_profile.php:38 login.php:72
+msgid "Email address"
+msgstr "ईमेल पता"
+
+#: edit_profile.php:47
+msgid "Change password"
+msgstr "पासवर्ड बदलें"
+
+#: edit_profile.php:58
+msgid "Repeat new password"
+msgstr "नया पासवर्ड दोहराएं"
+
+#: edit_profile.php:66
+msgid "Privacy Setting"
+msgstr "गोपनीयता सेटिंग"
+
+#: edit_profile.php:71
+msgid "Profile posts visible to non-friends"
+msgstr "गैर-मित्रों को दिखाई देने वाली प्रोफ़ाइल पोस्ट"
+
+#: edit_profile.php:86
+msgid "Friends visible to non-friends"
+msgstr "गैर-मित्रों को दिखाई देने वाले मित्र"
+
+#: edit_profile.php:100
+msgid "Email notifications"
+msgstr "ईमेल सूचनाएं"
+
+#: edit_profile.php:105
+msgid "Friend Requests and Replies"
+msgstr "मित्र अनुरोध और उत्तर"
+
+#: edit_profile.php:124
+msgid "Posts and Replies"
+msgstr "पोस्ट और उत्तर"
+
+#: edit_profile.php:147 edit_profile.php:169 edit_profile.php:193
+#: functions.php:203
+msgid "Save"
+msgstr "रक्षा कर"
+
+#: edit_profile.php:152
+msgid "Avatar and Cover images"
+msgstr "अवतार और कवर चित्र"
+
+#: edit_profile.php:157
+msgid "Change profile picture"
+msgstr "प्रोफ़ाइल चित्र बदलें"
+
+#: edit_profile.php:163 edit_profile.php:187 functions.php:202 story.php:101
+msgid "Change"
+msgstr "छोटे सिक्‍के"
+
+#: edit_profile.php:168 edit_profile.php:192 functions.php:234 login.php:87
+#: story.php:275
+msgid "Cancel"
+msgstr "रद्द करना"
+
+#: edit_profile.php:177
+msgid "Change profile page cover picture"
+msgstr "प्रोफ़ाइल पृष्ठ कवर चित्र परिवर्तित करना"
+
+#: edit_profile.php:233
+msgid "Problem encountered - please try zooming in and trying again"
+msgstr "समस्या का सामना करना पड़ा - कृपया ज़ूम इन करने और पुनः प्रयास करने का प्रयास करें"
+
+#: edit_profile.php:370
+msgid "Chosen image area too big, try zooming in."
+msgstr "चयनित छवि क्षेत्र बहुत बड़ा है, ज़ूम इन करने का प्रयास करें."
+
+#: friends.php:63
+msgid "Most active friends"
+msgstr "सबसे सक्रिय दोस्त"
+
+#: functions.php:211
+msgid "No recent photos."
+msgstr "कोई हालिया तस्वीरें नहीं।"
+
+#: functions.php:212 story.php:276
+msgid "Post"
+msgstr "के बाद"
+
+#: functions.php:216
+msgid "just now"
+msgstr "अभी-अभी"
+
+#: functions.php:228
+msgid "No friends."
+msgstr "कोई दोस्त नहीं।"
+
+#: functions.php:229
+msgid "Last active"
+msgstr "अंतिम सक्रिय"
+
+#: functions.php:230
+msgid "Remove"
+msgstr "हटाना"
+
+#: functions.php:231
+msgid "Done"
+msgstr "समाज-सम्मत"
+
+#: functions.php:232
+msgid "Accept"
+msgstr "स्वीकार करना"
+
+#: functions.php:233
+msgid "Reject"
+msgstr "अस्वीकार करना"
+
+#: functions.php:235
+msgid "Request sent"
+msgstr "अनुरोध भेजा गया"
+
+#: functions.php:258
+msgid "Enter at least 3 letters..."
+msgstr "कम से कम 3 अक्षर दर्ज करें..."
+
+#: functions.php:407
+msgid "Are you sure?"
+msgstr "क्या आपको यकीन है?"
+
+#: functions.php:407
+msgid "This post, and any replies, will all be deleted!"
+msgstr "यह पोस्ट, और कोई भी उत्तर, सभी हटा दिए जाएंगे!"
+
+#: functions.php:410
+msgid "Yes"
+msgstr "हाँ"
+
+#: functions.php:411
+msgid "No"
+msgstr "नहीं"
+
+#: login.php:17
+msgid "Username or Email address"
+msgstr "उपयोगकर्ता नाम या ईमेल पता"
+
+#: login.php:22 login.php:77
+msgid "Password"
+msgstr "पासवर्ड"
+
+#: login.php:28
+msgid "Forgotten password"
+msgstr "पासवर्ड भूल गए"
+
+#: login.php:31 menu.php:202
+msgid "Login"
+msgstr "लॉगिन"
+
+#: login.php:32
+msgid "Send"
+msgstr "भेजना"
+
+#: login.php:82
+msgid "Repeat password"
+msgstr "पासवर्ड दोहराएं"
+
+#: login.php:88
+msgid "Join"
+msgstr "जोड़"
+
+#: menu.php:177
+msgid "Logout"
+msgstr "लॉग आउट"
+
+#: menu.php:197
+msgid "Admin"
+msgstr "व्यवस्थापक"
+
+#: menu.php:201
+msgid "Home"
+msgstr "घर"
+
+#: menu.php:203
+msgid "Sign Up"
+msgstr "साइन अप करें"
+
+#: search.php:15
+msgid "Enter part of a person's name"
+msgstr "किसी व्यक्ति के नाम का हिस्सा डालें"
+
+#: story.php:136
+msgid "Alerts"
+msgstr "चेतावनियाँ"
+
+#: story.php:151
+msgid "Cancel Friendship"
+msgstr "दोस्ती रद्द करें"
+
+#: story.php:180 story.php:188
+msgid "Request Friendship"
+msgstr "दोस्ती का अनुरोध करें"
+
+#: story.php:183
+msgid "Reject Friendship"
+msgstr "दोस्ती को अस्वीकार करें"
+
+#: story.php:184
+msgid "Accept Friendship"
+msgstr "दोस्ती स्वीकार करें"
+
+#: story.php:192
+msgid "Cancel Friend Request"
+msgstr "मित्र अनुरोध रद्द करें"
+
+#: story.php:277
+msgid "Add Images"
+msgstr "छवियाँ जोड़ें"
+
+#: story.php:353
+msgid "Recent Photos"
+msgstr "हाल की तस्वीरें"
+
+#: wpsn-instant-social-network.php:100
+msgid "WPSN Cron schedule"
+msgstr "WPSN Cron अनुसूची"

@@ -1,0 +1,287 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2024-06-20 07:08+0100\n"
+"PO-Revision-Date: 2024-06-20 07:09+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ajax/wpsn_alerts_ajax.php:178 ajax/wpsn_friends_ajax.php:592
+#: ajax/wpsn_friends_ajax.php:628 ajax/wpsn_friends_ajax.php:738
+#: ajax/wpsn_search_ajax.php:39 ajax/wpsn_story_ajax.php:1131
+#, php-format
+msgid "%s ago"
+msgstr "vor %s"
+
+#: ajax/wpsn_friends_ajax.php:262
+#, php-format
+msgid "%s has accepted your friend request!"
+msgstr "%s hat deine Freundschaftsanfrage angenommen!"
+
+#: ajax/wpsn_friends_ajax.php:542
+#, php-format
+msgid "You have a friend request from %s!"
+msgstr "Sie haben eine Freundschaftsanfrage von %s!"
+
+#: ajax/wpsn_friends_ajax.php:593 ajax/wpsn_friends_ajax.php:629
+msgid "Requested"
+msgstr "Angefordert"
+
+#: ajax/wpsn_friends_ajax.php:664
+#, php-format
+msgid "Friends for %s"
+msgstr "Freunde für %s"
+
+#: ajax/wpsn_search_ajax.php:41
+msgid "Never"
+msgstr "Niemals"
+
+#: ajax/wpsn_story_ajax.php:1150 functions.php:213
+msgid "Reply"
+msgstr "Antwort"
+
+#: ajax/wpsn_story_ajax.php:1156 functions.php:214
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: ajax/wpsn_story_ajax.php:1157 functions.php:215
+msgid "Delete"
+msgstr "Löschen"
+
+#: edit_profile.php:20 login.php:62
+msgid "First name"
+msgstr "Vornamen"
+
+#: edit_profile.php:29 login.php:67
+msgid "Last name"
+msgstr "Nachname"
+
+#: edit_profile.php:38 login.php:72
+msgid "Email address"
+msgstr "E-Mail Adresse"
+
+#: edit_profile.php:47
+msgid "Change password"
+msgstr "Passwort ändern"
+
+#: edit_profile.php:58
+msgid "Repeat new password"
+msgstr "Wiederholung des neuen Passworts"
+
+#: edit_profile.php:66
+msgid "Privacy Setting"
+msgstr "Datenschutz-Einstellung"
+
+#: edit_profile.php:71
+msgid "Profile posts visible to non-friends"
+msgstr "Profilbeiträge sichtbar für Nicht-Freunde"
+
+#: edit_profile.php:86
+msgid "Friends visible to non-friends"
+msgstr "Freunde sichtbar für Nicht-Freunde"
+
+#: edit_profile.php:100
+msgid "Email notifications"
+msgstr "E-Mail-Benachrichtigungen"
+
+#: edit_profile.php:105
+msgid "Friend Requests and Replies"
+msgstr "Freundschaftsanfragen und Antworten"
+
+#: edit_profile.php:124
+msgid "Posts and Replies"
+msgstr "Beiträge und Antworten"
+
+#: edit_profile.php:147 edit_profile.php:169 edit_profile.php:193
+#: functions.php:203
+msgid "Save"
+msgstr "Speichern"
+
+#: edit_profile.php:152
+msgid "Avatar and Cover images"
+msgstr "Avatar und Titelbilder"
+
+#: edit_profile.php:157
+msgid "Change profile picture"
+msgstr "Profilbild ändern"
+
+#: edit_profile.php:163 edit_profile.php:187 functions.php:202 story.php:101
+msgid "Change"
+msgstr "Ändern Sie"
+
+#: edit_profile.php:168 edit_profile.php:192 functions.php:234 login.php:87
+#: story.php:275
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: edit_profile.php:177
+msgid "Change profile page cover picture"
+msgstr "Titelbild der Profilseite ändern"
+
+#: edit_profile.php:233
+msgid "Problem encountered - please try zooming in and trying again"
+msgstr "Problem aufgetreten - bitte zoomen Sie hinein und versuchen Sie es erneut"
+
+#: edit_profile.php:370
+msgid "Chosen image area too big, try zooming in."
+msgstr "Der gewählte Bildbereich ist zu groß. Versuchen Sie, hineinzuzoomen."
+
+#: friends.php:63
+msgid "Most active friends"
+msgstr "Die aktivsten Freunde"
+
+#: functions.php:211
+msgid "No recent photos."
+msgstr "Keine aktuellen Fotos."
+
+#: functions.php:212 story.php:276
+msgid "Post"
+msgstr "Beitrag"
+
+#: functions.php:216
+msgid "just now"
+msgstr "gerade eben"
+
+#: functions.php:228
+msgid "No friends."
+msgstr "Keine Freunde."
+
+#: functions.php:229
+msgid "Last active"
+msgstr "Zuletzt aktiv"
+
+#: functions.php:230
+msgid "Remove"
+msgstr "Entfernen"
+
+#: functions.php:231
+msgid "Done"
+msgstr "Erledigt"
+
+#: functions.php:232
+msgid "Accept"
+msgstr "Akzeptieren"
+
+#: functions.php:233
+msgid "Reject"
+msgstr "Ablehnen"
+
+#: functions.php:235
+msgid "Request sent"
+msgstr "Anfrage gesendet"
+
+#: functions.php:258
+msgid "Enter at least 3 letters..."
+msgstr "Mindestens 3 Buchstaben eingeben..."
+
+#: functions.php:407
+msgid "Are you sure?"
+msgstr "Sind Sie sicher?"
+
+#: functions.php:407
+msgid "This post, and any replies, will all be deleted!"
+msgstr "Dieser Beitrag und alle Antworten werden gelöscht!"
+
+#: functions.php:410
+msgid "Yes"
+msgstr "Ja"
+
+#: functions.php:411
+msgid "No"
+msgstr "Nein"
+
+#: login.php:17
+msgid "Username or Email address"
+msgstr "Benutzername oder E-Mail Adresse"
+
+#: login.php:22 login.php:77
+msgid "Password"
+msgstr "Passwort"
+
+#: login.php:28
+msgid "Forgotten password"
+msgstr "Vergessenes Passwort"
+
+#: login.php:31 menu.php:202
+msgid "Login"
+msgstr "Anmeldung"
+
+#: login.php:32
+msgid "Send"
+msgstr "Senden"
+
+#: login.php:82
+msgid "Repeat password"
+msgstr "Passwort wiederholen"
+
+#: login.php:88
+msgid "Join"
+msgstr "Beitreten"
+
+#: menu.php:177
+msgid "Logout"
+msgstr "Ausloggen"
+
+#: menu.php:197
+msgid "Admin"
+msgstr "Admin"
+
+#: menu.php:201
+msgid "Home"
+msgstr "Heim"
+
+#: menu.php:203
+msgid "Sign Up"
+msgstr "Melden Sie sich an"
+
+#: search.php:15
+msgid "Enter part of a person's name"
+msgstr "Teil des Namens einer Person eingeben"
+
+#: story.php:136
+msgid "Alerts"
+msgstr "Warnungen"
+
+#: story.php:151
+msgid "Cancel Friendship"
+msgstr "Freundschaft kündigen"
+
+#: story.php:180 story.php:188
+msgid "Request Friendship"
+msgstr "Freundschaft anfordern"
+
+#: story.php:183
+msgid "Reject Friendship"
+msgstr "Freundschaft ablehnen"
+
+#: story.php:184
+msgid "Accept Friendship"
+msgstr "Freundschaft akzeptieren"
+
+#: story.php:192
+msgid "Cancel Friend Request"
+msgstr "Freundschaftsanfrage abbrechen"
+
+#: story.php:277
+msgid "Add Images"
+msgstr "Bilder hinzufügen"
+
+#: story.php:353
+msgid "Recent Photos"
+msgstr "Neueste Fotos"
+
+#: wpsn-instant-social-network.php:100
+msgid "WPSN Cron schedule"
+msgstr "WPSN Cron Zeitplan"
+
+#, php-format
+#~ msgid "%s"
+#~ msgstr "%s"
